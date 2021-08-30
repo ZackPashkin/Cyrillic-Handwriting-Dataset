@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cyrillic Handwriting Dataset
 [Link](https://www.kaggle.com/constantinwerner/cyrillic-handwriting-dataset)
 ![Image](https://github.com/ZackPashkin/Cyrillic-Handwriting-Dataset/blob/main/dataset.jpg)
 You can use the [editor on GitHub](https://github.com/ZackPashkin/Cyrillic-Handwriting-Dataset/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
