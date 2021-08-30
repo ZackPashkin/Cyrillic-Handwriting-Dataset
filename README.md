@@ -7,3 +7,10 @@ See kaggle notebooks
 
 [ResNet + Transformer | Cyrillic Handwriting](https://www.kaggle.com/constantinwerner/resnet-transformer-cyrillic-handwriting) 
 
+
+
+
+### Authors
+The provided dataset is created by [SHIFTLab CFT]( https://team.cft.ru/start/lab) ML Team
+
+
