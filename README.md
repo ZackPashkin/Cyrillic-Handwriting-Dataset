@@ -1,6 +1,6 @@
 ## Cyrillic Handwriting Dataset
 
-![Image](dataset.jpg)
+![Image](readme_images/header.jpg)
 ---
 [Download from kaggle](https://www.kaggle.com/constantinwerner/cyrillic-handwriting-dataset)
 ### Overview
