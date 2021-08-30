@@ -4,13 +4,15 @@
 ---
 [Download from kaggle](https://www.kaggle.com/constantinwerner/cyrillic-handwriting-dataset)
 ### Overview
+
 We present a new dataset of Cyrillic handwriting for OCR tasks, which is composed of 33122 segments of handwriting texts (crops) in Russian and splited into train, and test sets with a split of 95%, 5%, respectively. The dataset is provided by SHIFT Lab CFT
+
 ---
 ### Description
 The data was collected from open web sources and materials of members of the team. Each crop is an image of an expression in Russian of no more then 25 symbols written by hand.
 
 
-![Image](1G5uc8I_SpE.jpg)
+![Image](fig1.jpg)
 ---
 Overall, there are 90 different symbols. The most common symbol is a small letter 'o'; meanwhile, the least common is a capital letter 'Щ'.
 ![Image](1G5uc8I_SpE.jpg)
