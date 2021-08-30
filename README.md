@@ -16,15 +16,15 @@ The data was collected from open web sources and materials of members of the tea
 ---
 Overall, there are 90 different symbols. The most common symbol is a small letter 'o'; meanwhile, the least common is a capital letter 'Щ'.
 
-![Image](readme_images/fig5.jpg)
+![Image](readme_images/fig2.jpg)
 
 As for vocabulary, the dataset contains 18,955 unique expressions (w/o case of letters). Top 10 most common expressions:
 
-![Image](readme_images/fig2.jpg)
+![Image](readme_images/fig3.jpg)
 
 The shortest expression consists of 1 symbol, whereas the longest one has 25 symbols, and the median is 7.
 
-![Image](readme_images/fig3.jpg)
+![Image](readme_images/fig4.jpg)
 
 ---
 Check out kaggle notebooks:
