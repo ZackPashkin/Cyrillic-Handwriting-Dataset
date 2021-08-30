@@ -12,14 +12,14 @@ We present a new dataset of Cyrillic handwriting for OCR tasks, which is compose
 The data was collected from open web sources and materials of members of the team. Each crop is an image of an expression in Russian of no more then 25 symbols written by hand.
 
 
-![Image](fig1.jpg)
+![Image](readme_images/fig1.jpg)
 ---
 Overall, there are 90 different symbols. The most common symbol is a small letter 'o'; meanwhile, the least common is a capital letter 'Щ'.
-![Image](1G5uc8I_SpE.jpg)
+![Image](readme_images/fig5.jpg)
 As for vocabulary, the dataset contains 18,955 unique expressions (w/o case of letters). Top 10 most common expressions:
-![Image](1G5uc8I_SpE.jpg)
+![Image](readme_images/fig4.jpg)
 The shortest expression consists of 1 symbol, whereas the longest one has 25 symbols, and the median is 7.
-![Image](1G5uc8I_SpE.jpg)
+![Image](readme_images/fig3.jpg)
 ---
 Check out kaggle notebooks:
 
