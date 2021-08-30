@@ -5,7 +5,7 @@
 [Download from kaggle](https://www.kaggle.com/constantinwerner/cyrillic-handwriting-dataset)
 ### Overview
 
-We present a new dataset of Cyrillic handwriting for OCR tasks, which is composed of 33122 segments of handwriting texts (crops) in Russian and splited into train, and test sets with a split of 95%, 5%, respectively. The dataset is provided by SHIFT Lab CFT
+We present a new dataset of Cyrillic handwriting for OCR tasks, which is composed of 33122 segments of handwriting texts (crops) in Russian and splited into train, and test sets with a split of 95% and 5%, respectively. The dataset is provided by SHIFT Lab CFT
 
 ---
 ### Description
