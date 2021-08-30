@@ -5,6 +5,7 @@ We present a new dataset of Cyrillic handwriting for OCR tasks, which is compose
 ### Description
 The data was collected from open web sources and materials of members of the team. Each crop is an image of an expression in Russian of no more then 25 symbols written by hand.
 ![Image](1G5uc8I_SpE.jpg)
+
 [Download from kaggle](https://www.kaggle.com/constantinwerner/cyrillic-handwriting-dataset)
 ![Image](dataset.jpg)
 
